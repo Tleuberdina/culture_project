@@ -5,9 +5,10 @@
 - Python
 - Django REST Framework
 - SQLite
-- DJOSER
+- JWT + Djoser
 - aiohttp
 - OpenAPI
+- Unittest
 
 ### Документация проекта: http://localhost/redoc/
 
